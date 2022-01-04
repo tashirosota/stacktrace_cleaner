@@ -1,6 +1,6 @@
 defmodule StacktraceCleaner.MixProject do
   use Mix.Project
-  @versoin "0.1.0"
+  @versoin "0.1.1"
   @source_url "https://github.com/tashirosota/stacktrace_cleaner"
   @description "Reduces and eliminates stacktraces noise, can get clean stack traces."
   def project do
