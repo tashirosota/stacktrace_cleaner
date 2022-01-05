@@ -1,7 +1,7 @@
 <!-- @format -->
 
 [![hex.pm version](https://img.shields.io/hexpm/v/ltsv.svg)](https://hex.pm/packages/stacktrace_cleaner)
-[![CI](https://github.com/tashirosota/magical_make/actions/workflows/ci.yml/badge.svg)](https://github.com/tashirosota/stacktrace_cleaner/actions/workflows/ci.yml)
+[![CI](https://github.com/tashirosota/stacktrace_cleaner/actions/workflows/ci.yml/badge.svg)](https://github.com/tashirosota/stacktrace_cleaner/actions/workflows/ci.yml)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tashirosota/stacktrace_cleaner)
 
 # StacktraceCleaner
